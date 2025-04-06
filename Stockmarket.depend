@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1742178898 source:c:\users\epbri\documents\uni\c++\stockmarket\main.cpp
+	"Stock.h"
+	"HashTable.h"
+	"functions.h"
+	<iostream>
+	<limits>
+
+1742178085 c:\users\epbri\documents\uni\c++\stockmarket\include\stock.h
+	<iostream>
+	<vector>
+	<string>
+	<tuple>
+
+1742178057 source:c:\users\epbri\documents\uni\c++\stockmarket\src\stock.cpp
+	"Stock.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1742177635 c:\users\epbri\documents\uni\c++\stockmarket\include\hashtable.h
+	"Stock.h"
+	<iostream>
+	<vector>
+	<string>
+	<tuple>
+
+1742178861 source:c:\users\epbri\documents\uni\c++\stockmarket\src\hashtable.cpp
+	"HashTable.h"
+	<fstream>
+	<sstream>
+	<cmath>
+	"functions.h"
+
+1742151064 source:c:\users\epbri\documents\uni\c++\stockmarket\src\functions.cpp
+	"functions.h"
+
+1742150415 c:\users\epbri\documents\uni\c++\stockmarket\include\functions.h
+	<iostream>
+	<string>
+	<thread>
+
